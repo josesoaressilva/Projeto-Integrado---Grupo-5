@@ -1,6 +1,6 @@
 # Projeto-Integrado---Grupo-5
 
-Integrantes
+Integrantes:
 Gabriel Oldrado
 Henrique Lourenço
 José Mauricio 
